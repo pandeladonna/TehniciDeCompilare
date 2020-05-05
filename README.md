@@ -1,0 +1,2 @@
+# TehniciDeCompilare
+teme 
