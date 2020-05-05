@@ -1,0 +1,13 @@
+function arie
+begin
+	var a : real ;
+	var p : real ;
+	var r : real ;
+	const pi : real ;
+	pi = 3.14 ;
+	read ( r ) ;
+	a = pi * r * r ;
+	p = 2 * pi * r ;
+	write ( a ) ;
+	write ( p ) ;
+end

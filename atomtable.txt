@@ -1,0 +1,46 @@
+ATOM COD
+ID 0
+CONST 1
+read 2
+write 3
+function 4
+if 5
+else 6
+begin 7
+end 8
+for 9
+while 10
+real 11
+integer 12
+string 13
+array 14
+OR 15
+AND 16
+var 17
+call 18
++ 19
+- 20
+/ 21
+* 22
+% 23
+< 24
+> 25
+<= 26
+>= 27
+!= 28
+== 29
+= 30
+; 31
+( 32
+) 33
+{ 34
+} 35
+: 36
+, 37
+[ 38
+] 39
+
+
+
+
+
